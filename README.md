@@ -4,7 +4,7 @@ A Python-based desktop Student Management System built with Tkinter, MySQL, Pill
 
 The application helps manage students, courses, attendance, results, and reports from a simple graphical dashboard.
 
-![Student Management System](Code/img/login.jpg)
+![Student Management System](https://raw.githubusercontent.com/KaushalMuniwala/Student-Management-System/main/Code/img/login.jpg)
 
 ## Features
 
